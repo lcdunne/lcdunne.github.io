@@ -1,7 +1,3 @@
-# Lewis Dunne
-
-## Surrey, UK | [LinkedIn](http://www.linkedin.com/in/lewis-c-dunne)
-
 I am a software engineer with a PhD in psychology. During my studies, I discovered a passion for programming and have made extensive use of this for my research, hobbies, and for my work. I am particularly interested in data science/analysis, data visualisation, and back-end web development. I aim to further my skills and apply them to a meaningful cause.
 
 # Technical Skills Summary
