@@ -1,4 +1,15 @@
 title: Lewis Dunne
 # logo:
 description: Software | Psychology | Data
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+
+connects:
+  github: https://github.com/lcdunne
+  linkedin: www.linkedin.com/in/lewis-c-dunne
+template: minimal
+fontName: Lato
+colours:
+  context: "#eceff4"
+  background: "#fffff"
+  foreground: "#434c5e"
+  highlight: "#5E81AC"
