@@ -34,7 +34,7 @@ This company contracted Accelogress to conduct big data analytics on transport-r
 - Processed and analysed data with Apache Spark, Pandas, and SciPy
 - Applied _k_\-means and density-based clustering with Scikit-Learn and hdbscan for advanced data segmentation
 - Created insightful visualisations with Matplotlib and Seaborn to communicate data findings effectively
-- Data pipelineImplemented a data processing pipeline using Apache Airflow to automating our workflow
+- Implemented a data processing pipeline using Apache Airflow to automating our workflow
 
 ### Client project 2
 
